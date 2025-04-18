@@ -9,3 +9,8 @@ Esta es una aplicación web creada con Streamlit que permite visualizar datos de
 
 ## Despliegue en Render
 La app está preparada para ejecutarse en Render con configuración personalizada de puerto.
+La app Streamlit se puede ver en las siguientes rutas:
+  
+  Local URL: http://localhost:8501
+  Network URL: http://10.226.237.69:8501
+  External URL: http://216.24.60.131:8501
