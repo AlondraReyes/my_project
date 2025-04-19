@@ -11,4 +11,4 @@ Esta es una aplicación web creada con Streamlit que permite visualizar datos de
 La app está preparada para ejecutarse en Render con configuración personalizada de puerto.
 La app Streamlit se puede ver en las siguiente ruta: 
 
-https://my-project-1ayf.onrender.com/
+https://my-project-va83.onrender.com/
