@@ -3,9 +3,9 @@ import plotly.express as px
 import streamlit as st
 
 # path_compu = 'C:\Users\MOON_\Documents\Notebooks\MyProjects\vehicles_env\vehicles_us.csv'
-path_github = 'https://raw.githubusercontent.com/AlondraReyes/my_project/refs/heads/main/vehicles_us.csv'
+# path_github = 'https://raw.githubusercontent.com/AlondraReyes/my_project/refs/heads/main/vehicles_us.csv'
 
-car_data = pd.read_csv(path_github)
+car_data = pd.read_csv('https://raw.githubusercontent.com/AlondraReyes/my_project/refs/heads/main/vehicles_us.csv')
 
 # Crear un histograma
 fig = px.histogram(car_data, x="odometer")
